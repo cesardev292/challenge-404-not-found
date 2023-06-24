@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/cesardev292/challenge-404-not-found/">
+    <a href="https://not-found-23b48.web.app/">
       Solution
     </a>
     <span> | </span>
@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Website [your-website.com](https://not-found-23b48.web.app/)
+- GitHub [@your-username](https://github.com/cesardev292)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
